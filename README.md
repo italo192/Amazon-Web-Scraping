@@ -1,5 +1,5 @@
 # Amazon-Web-Scraping
-Automatização de web scraping na Amazon para extrair informações de produtos.
+Automação de web scraping na Amazon para extrair informações de produtos.
 
 # Web Scraping na Amazon com Python e Selenium
 
